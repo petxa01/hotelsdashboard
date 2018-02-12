@@ -1,0 +1,10 @@
+.carousel {
+    margin: auto;
+    width: 440px;
+    height: 150px;
+    padding-bottom: 50px;
+}
+
+.carousel-control {
+    height: 150px;
+}
